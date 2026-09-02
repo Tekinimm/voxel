@@ -22,8 +22,3 @@ OpenCV: Image processing and UI rendering.
 MediaPipe: High-performance ML-based hand tracking.
 
 NumPy: Efficient coordinate and grid calculations.
-🚀 Getting StartedPrerequisitesEnsure you have Python installed, then install the required libraries:Bashpip install opencv-python mediapipe numpy
-Installation & UsageClone the repository:Bashgit clone https://github.com/yourusername/futuristic-voxel-studio.git
-Navigate to the project folder:Bashcd futuristic-voxel-studio
-Run the application:Bashpython voxel_studio.py
-🎮 ControlsKeyActionPinch (Thumb + Index)Activate Radar & Start DrawingMove Hand (While Pinching)Stream/Draw continuous voxelsRCycle through premium colorsCClear the entire canvasQQuit the application📺 PreviewThe application detects your hand and overlays a "Tech Radar" on your index finger. Hold the pinch for 1.5 seconds to initiate the Stream Mode, allowing you to paint across the screen in real-time.
